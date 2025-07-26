@@ -1,0 +1,14 @@
+D:\reyhan\quiz_app_project\quiz_app_project\bin\Debug\quiz_app_project.exe.config
+D:\reyhan\quiz_app_project\quiz_app_project\bin\Debug\quiz_app_project.exe
+D:\reyhan\quiz_app_project\quiz_app_project\bin\Debug\quiz_app_project.pdb
+D:\reyhan\quiz_app_project\quiz_app_project\bin\Debug\System.Data.SQLite.dll
+D:\reyhan\quiz_app_project\quiz_app_project\bin\Debug\System.Data.SQLite.xml
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.csproj.AssemblyReference.cache
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.csproj.SuggestedBindingRedirects.cache
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.Form1.resources
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.Properties.Resources.resources
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.csproj.GenerateResource.cache
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.csproj.CoreCompileInputs.cache
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.csproj.CopyComplete
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.exe
+D:\reyhan\quiz_app_project\quiz_app_project\obj\Debug\quiz_app_project.pdb
